@@ -1,2 +1,3 @@
 # Studying
- javascript
+ javascript is awesome
+ 
